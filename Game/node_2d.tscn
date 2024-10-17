@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://b8pk57ce8x06d"]
+
+[ext_resource type="Script" path="res://Node2d.cs" id="1_h6adw"]
+[ext_resource type="Texture2D" uid="uid://cvg6pnyhnhmgt" path="res://spriteAssets/ekansh.png" id="1_vd3af"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_h6adw")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(481, 270)
+texture = ExtResource("1_vd3af")
+
+[node name="ekanshText" type="RichTextLabel" parent="."]
+offset_left = 19.0
+offset_top = 6.0
+offset_right = 927.0
+offset_bottom = 48.0
+theme_override_font_sizes/normal_font_size = 30
+text = "Ekansh Clicks:"
+fit_content = true
