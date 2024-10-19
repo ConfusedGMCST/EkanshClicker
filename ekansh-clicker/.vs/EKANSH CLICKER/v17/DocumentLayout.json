@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\upgradeButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:upgradeButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2D1CFCE-8DDD-47D9-934B-EBA218410D96}|Ekansh Clicker.csproj|c:\\users\\christian.haase\\documents\\github\\ekanshclicker\\ekansh-clicker\\area2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D1CFCE-8DDD-47D9-934B-EBA218410D96}|Ekansh Clicker.csproj|solutionrelative:area2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "upgradeButton.cs",
+              "DocumentMoniker": "C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\upgradeButton.cs",
+              "RelativeDocumentMoniker": "upgradeButton.cs",
+              "ToolTip": "C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\upgradeButton.cs",
+              "RelativeToolTip": "upgradeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:35:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Area2d.cs",
               "DocumentMoniker": "C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\Area2d.cs",
               "RelativeDocumentMoniker": "Area2d.cs",
               "ToolTip": "C:\\Users\\christian.haase\\Documents\\GitHub\\EkanshClicker\\ekansh-clicker\\Area2d.cs",
               "RelativeToolTip": "Area2d.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAACAlJmZmZkdwCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T17:12:22.461Z",
               "EditorCaption": ""
