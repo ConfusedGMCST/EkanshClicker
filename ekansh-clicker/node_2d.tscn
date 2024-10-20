@@ -12,7 +12,9 @@ radius = 167.344
 size = Vector2(246.5, 61.5)
 
 [node name="Node2D" type="Node2D"]
-metadata/EkanshClicks = 0
+metadata/EkanshClicks = 0.0
+metadata/totalCps = 100.0
+metadata/priceModifier = 1.5
 
 [node name="ekanshText" type="RichTextLabel" parent="."]
 offset_left = 19.0
@@ -33,15 +35,18 @@ shape = SubResource("CircleShape2D_5rh48")
 [node name="Sprite2D" type="Sprite2D" parent="ekanshArea"]
 texture = ExtResource("1_vd3af")
 
-[node name="voterButton" type="Area2D" parent="."]
-position = Vector2(2, -14)
+[node name="upgradeButton1" type="Area2D" parent="."]
+position = Vector2(-21, 7)
 script = ExtResource("3_iwtre")
+metadata/price = 100.0
+metadata/cpsAdd = 0.0
+metadata/AddedCps = 0.0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="voterButton"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="upgradeButton1"]
 position = Vector2(831.75, 164.25)
 shape = SubResource("RectangleShape2D_cwg2w")
 
-[node name="Sprite2D" type="Sprite2D" parent="voterButton"]
+[node name="Sprite2D" type="Sprite2D" parent="upgradeButton1"]
 position = Vector2(832, 164)
 scale = Vector2(0.62, 0.62)
 texture = ExtResource("3_ol54w")
