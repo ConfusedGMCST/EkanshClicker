@@ -13,7 +13,7 @@ size = Vector2(246.5, 61.5)
 
 [node name="Node2D" type="Node2D"]
 metadata/EkanshClicks = 0.0
-metadata/totalCps = 100.0
+metadata/totalCps = 1.0
 metadata/priceModifier = 1.5
 
 [node name="ekanshText" type="RichTextLabel" parent="."]
@@ -39,8 +39,9 @@ texture = ExtResource("1_vd3af")
 position = Vector2(-21, 7)
 script = ExtResource("3_iwtre")
 metadata/price = 100.0
-metadata/cpsAdd = 0.0
+metadata/cpsAdd = 10.0
 metadata/AddedCps = 0.0
+metadata/purchasedUpgrades = 0.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="upgradeButton1"]
 position = Vector2(831.75, 164.25)
